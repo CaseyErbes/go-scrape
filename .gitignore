@@ -1,0 +1,15 @@
+# OSX Files
+.DS_Store
+*/.DS_Store
+
+# Vim Swap Files
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+# History
+.history
+
+# VS Code settings
+.vscode/settings.json
